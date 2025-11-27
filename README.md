@@ -20,7 +20,7 @@ Welcome to the **Movies House App**! This app showcases movies from the [TMDB AP
 - 🎬 **TMDB API** – Fetch the latest movies, genres, and more!
 - 🔗 **Retrofit** – For seamless network calls
 - 🏛️ **MVVM Architecture** – Clean, maintainable code structure
-- 🛡️ **Dagger-Hilt** – Efficient dependency injection
+- 🛡️ **Hilt** – Efficient dependency injection
 - 📜 **Paging 3** – Effortless pagination for movie listings
 - 💾 **Room Database** – Save and manage your Wishlist
 - 🧭 **Navigation Compose** – Smooth navigation experience
